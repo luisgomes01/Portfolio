@@ -185,6 +185,10 @@ main .right-column {
     text-align: justify;
 }
 
+.informacoesExperienciaPortfolio__experiencia {
+    height: 143px;
+}
+
 section{
     padding-bottom: 20px;
     margin-bottom: 20px;
@@ -216,7 +220,7 @@ section ul li strong{
 }
 
 .informacoesExperienciaPortfolio__experiencia{
-    margin-bottom: 0;
+    margin-top: 0px;
     border: none;
 }
 
