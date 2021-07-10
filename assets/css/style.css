@@ -120,6 +120,7 @@ main .right-column {
     width: 50%;
     max-width: 160px;
     border-radius: 100%;
+    transition: all 500ms ease;
 }
 
 .informacoesContatoPortfolio__imagem img:hover {
